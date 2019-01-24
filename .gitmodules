@@ -1,0 +1,9 @@
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:Palomino0513/laravel-dockerfiles.git
+[submodule "magento"]
+	path = magento
+	url = git@github.com:Palomino0513/magento-dockerfiles.git
+[submodule "rails"]
+	path = rails
+	url = git@github.com:Palomino0513/rails-dockerfiles.git
