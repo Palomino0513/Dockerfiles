@@ -7,3 +7,6 @@
 [submodule "rails"]
 	path = rails
 	url = git@github.com:Palomino0513/rails-dockerfiles.git
+[submodule "angular"]
+	path = angular
+	url = git@github.com:Palomino0513/angular-dockerfiles.git
