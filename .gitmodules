@@ -10,3 +10,6 @@
 [submodule "angular"]
 	path = angular
 	url = git@github.com:Palomino0513/angular-dockerfiles.git
+[submodule "react"]
+	path = react
+	url = git@github.com:Palomino0513/react-dockerfiles.git
